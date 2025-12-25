@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/24340047/README.1.md)# verity-intelligence-ccsl
+# verity-intelligence-ccsl
 Security infrastructure company building verifiable execution system
 
 
